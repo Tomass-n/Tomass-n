@@ -12,7 +12,7 @@
   <strong>software engineer building systems, tools, and applied ai</strong>
 </p>
 <p align="center">
-  argentina · product engineering · automation · intelligent systems
+  argentina · engineering
 </p>
 
 ---

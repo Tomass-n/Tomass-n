@@ -5,7 +5,9 @@
   <source media="(prefers-color-scheme: light)" srcset="TU_BANNER_LIGHT">
 </picture>
 
-![image_alt](https://github.com/Tomass-n/Tomass-n/blob/791faa55312e7e61f82e029dd9ed4fd1d1c4d9a5/image.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tomass-n/Tomass-n/main/image.jpg" alt="space banner" width="72%">
+</p>
 
 <h1 align="center">Tomás Desia</h1>
 <p align="center">
@@ -20,8 +22,7 @@
 ### about
 I build with an engineering mindset.
 
-My interests sit at the intersection of software engineering, product systems, automation, and applied AI.  
-Right now I'm focused on shipping real projects, learning in public, and moving from software engineering toward AI engineering through built systems, not just theory.
+Multidisciplinary engineer with a passion for building at the edge of software, mechatronics, and AI. I am committed solving complex engineering challenges by shipping tangible, functional projects.
 
 ### stack
 `TypeScript` `Python` `React` `FastAPI` `HTML` `CSS` `PostgreSQL` `Git/GitHub`

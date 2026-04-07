@@ -17,33 +17,13 @@
 ---
 
 ### about
-I build software with an engineering mindset.
+I build with an engineering mindset.
 
 My interests sit at the intersection of software engineering, product systems, automation, and applied AI.  
 Right now I'm focused on shipping real projects, learning in public, and moving from software engineering toward AI engineering through built systems, not just theory.
 
-### current work
-- **CineMatch** — movie platform and API built as a software engineering portfolio project
-
-### engineering principles
-- build useful things
-- prefer simple systems over clever systems
-- ship fast, then refine
-- optimize for clarity, modularity, and iteration
-- learn by building
-
 ### stack
 `TypeScript` `Python` `React` `FastAPI` `HTML` `CSS` `PostgreSQL` `Git/GitHub`
-
-### currently exploring
-- backend architecture
-- developer tools
-- applied AI systems
-- automation workflows
-- product-grade software
-
-### links
-- **Portfolio:** [Portfolio](TU_PORTFOLIO)
-- **Email:** TU_EMAIL
+- 
 
 > building useful systems that look good and actually work.

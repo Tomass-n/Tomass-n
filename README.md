@@ -24,10 +24,6 @@ Right now I'm focused on shipping real projects, learning in public, and moving 
 
 ### current work
 - **CineMatch** — movie platform and API built as a software engineering portfolio project
-- **helpdesk-ai** — AI ticket triage and assisted response system
-- **cli-llm-chatbot** — terminal-based LLM interface for rapid experimentation
-- **job_ai** — job search automation and ranking experiments
-- **gym_app** — workout tracking system built with TypeScript
 
 ### engineering principles
 - build useful things
@@ -47,7 +43,6 @@ Right now I'm focused on shipping real projects, learning in public, and moving 
 - product-grade software
 
 ### links
-- **LinkedIn:** [LinkedIn](TU_LINKEDIN)
 - **Portfolio:** [Portfolio](TU_PORTFOLIO)
 - **Email:** TU_EMAIL
 

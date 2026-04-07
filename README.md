@@ -11,10 +11,7 @@
 
 <h1 align="center">Tomás Desia</h1>
 <p align="center">
-  <strong>software engineer building systems, tools, and applied ai</strong>
-</p>
-<p align="center">
-  argentina · engineering
+  <strong>Engineer</strong>
 </p>
 
 ---

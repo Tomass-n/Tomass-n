@@ -24,8 +24,4 @@ I build with an engineering mindset.
 
 Multidisciplinary engineer with a passion for building at the edge of software, mechatronics, and AI. I am committed solving complex engineering challenges by shipping tangible, functional projects.
 
-### stack
-`TypeScript` `Python` `React` `FastAPI` `HTML` `CSS` `PostgreSQL` `Git/GitHub`
-- 
-
 > building useful systems that look good and actually work.

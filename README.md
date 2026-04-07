@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="TU_BANNER_DARK">
   <source media="(prefers-color-scheme: light)" srcset="TU_BANNER_LIGHT">
-  <img alt="Tomás Desia banner" src="TU_BANNER_DARK">
+  <img alt="Tomás Desia banner" src="![jpg](https://github.com/user-attachments/assets/4c447262-59a1-44c2-a399-11efd682fbe4)">
 </picture>
 
 <h1 align="center">Tomás Desia</h1>
